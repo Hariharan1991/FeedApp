@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+    <string name="first_name_hint">Enter the First Name</string>
+    <string name="last_name_hint">Enter the Last Name</string>
+    <string name="email_hint">Enter the Email Address</string>
+    <string name="password_hint">Enter the Password</string>
+    <string name="last_register">Register To Continue</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="empty_first_name">Please Enter the First Name</string>
+    <string name="empty_last_name">Please Enter the Last Name</string>
+    <string name="empty_email_address">Please enter the Email Address</string>
+    <string name="valid_email_address">Please enter the Valid Email Address</string>
+    <string name="empty_password">Please enter the Password</string>
+    <string name="valid_password">Password Must be at least 5 Characters</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="camera_and_storage">Camera and Storage Permission required for this app</string>
+    <string name="enable_permission">Go to settings and enable permissions</string>
+    <string name="loading">Loading</string>
+    <string name="news_menu">News</string>
+    <string name="profile_menu">Profile</string>
+    <string name="feed_detail">Feed Detail</string>
+</resources>
